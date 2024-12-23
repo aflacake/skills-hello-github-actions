@@ -28,6 +28,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - Learn more about GitHub by reading the "[Get started](https://docs.github.com/get-started)" docs
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore)
 
+...
+
 <footer>
 
 ---
